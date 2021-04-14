@@ -20,5 +20,3 @@ The marketing and sales teams are particularly interested in the different types
 ● Are there differences in ordering habits based on a customer’s region?
 
 ● Is there a connection between age and family status in terms of ordering habits?
-
-The final presentation is  [here](https://public.tableau.com/profile/kentaro.fujita#!/vizhome/Rockbuster_16140100110730/Story1) on Tableau
