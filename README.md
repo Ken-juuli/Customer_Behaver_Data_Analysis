@@ -21,4 +21,4 @@ The marketing and sales teams are particularly interested in the different types
 
 ● Is there a connection between age and family status in terms of ordering habits?
 
-Final presentation is  [here](https://public.tableau.com/profile/kentaro.fujita#!/vizhome/Rockbuster_16140100110730/Story1) on Tableau
+The final presentation is  [here](https://public.tableau.com/profile/kentaro.fujita#!/vizhome/Rockbuster_16140100110730/Story1) on Tableau
